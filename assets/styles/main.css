@@ -5,3 +5,12 @@
     width: 80px;
     height: 80px;
 }
+.skills-data img{
+    margin: 5px;
+}   
+@media (max-width: 687px) {
+    .data-media{
+        width: 100% !important;
+        padding: 25px 0;
+    }
+}
